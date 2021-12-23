@@ -56,7 +56,7 @@ export default function App() {
 
   // Functions called from child component (Filter component)
   // flag to set selected Genre from drop down
-  const setGenreData = (data) => {
+  const GenreData = (data) => {
     setGenreData(data);
   };
 
@@ -109,7 +109,7 @@ export default function App() {
         <Filter
           movieFilter={movieList}
           callBackFunc={setLanguageData}
-          setGenre={setGenreData}
+          setGenre={GenreData}
         />
 
         {showContainer && (
