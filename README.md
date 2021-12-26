@@ -16,21 +16,17 @@ Link to api used to fetch movie data object
 
 # Getting started
   Can view this project directly using sanbox link 
-         https://09v1k.csb.app/
+         https://m6ouz.csb.app/
          
 # Screen shots
- <img width="1680" alt="Screenshot 1943-10-01 at 9 07 13 PM" src="https://user-images.githubusercontent.com/96462021/147118517-bf8e2d7e-60f8-4af1-9497-38a13c53967a.png">
- 
- <img width="1678" alt="Screenshot 1943-10-01 at 9 07 26 PM" src="https://user-images.githubusercontent.com/96462021/147120238-f2d25824-dde2-4b67-ab71-391713bcf80b.png">
 
- <img width="1332" alt="Screenshot 1943-10-01 at 9 07 44 PM" src="https://user-images.githubusercontent.com/96462021/147118553-94e4ebf8-9914-4ab8-a7a9-4a75dd3ea45a.png">
- 
-   - Mobile View
- <img width="286" alt="Screenshot 1943-10-01 at 9 19 25 PM" src="https://user-images.githubusercontent.com/96462021/147119222-f938346b-2d04-4fdd-90bd-656b2d1fade5.png">
- 
- 
-   - Tab View
-<img width="790" alt="Screenshot 1943-10-01 at 9 20 01 PM" src="https://user-images.githubusercontent.com/96462021/147119239-9ebe44cb-b64d-44da-951a-0a2fddad0302.png">
+<img width="613" alt="Screenshot 1943-10-05 at 10 15 44 PM" src="https://user-images.githubusercontent.com/96462021/147414815-1a1058da-f56c-4806-a55c-22ef33007b33.png">
+
+<img width="1676" alt="Screenshot 1943-10-05 at 10 15 17 PM" src="https://user-images.githubusercontent.com/96462021/147414834-3b98046c-57d0-48b3-b9f5-faa0fc6af2b5.png">
+
+<img width="1670" alt="Screenshot 1943-10-05 at 10 15 09 PM" src="https://user-images.githubusercontent.com/96462021/147414836-0b788825-27d1-4ae3-8540-8bbc13d65212.png">
+
 
  # Upcoming features
-     - Adding multiple filters which includes search by date of release, filter by user review count
+   - Adding filters to products list to choose based on categories
+   - Adding price details and total price on the cart values after checkout
