@@ -31,5 +31,5 @@ Link to api used to fetch movie data object
 
 
  # Upcoming features
-   - Adding filters to products list to choose based on categories
-   - Adding price details and total price on the cart values after checkout
+   - Adding filters to movie list to choose based on release date and ratings
+   - Adding review of the trailer along with each movie lists
