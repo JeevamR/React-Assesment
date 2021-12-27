@@ -1,4 +1,148 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+body {
+  background-color: black;
+  color: white;
+}
+
+.header-content {
+  display: flex;
+  flex-wrap: right;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.max-center {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: space-evenly;
+}
+
+.movie-cover {
+  object-fit: cover;
+  height: 362px;
+}
+
+.default-image {
+  object-fit: fill;
+  height: 462px;
+}
+
+.no-image-found {
+  min-height: 230px;
+}
+
+.filter_and_container {
+  display: flex;
+  margin: 0px auto;
+  flex-wrap: wrap;
+}
+
+.trailer_container {
+  position: relative;
+  min-height: 500px;
+  width: 1200px;
+  background-position: top center;
+  background-size: contain;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.title {
+  font-size: 50px;
+  margin: 0;
+}
+
+.search_filter {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.font {
+  font-size: 15px;
+  margin: 1;
+  font-style: italic;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  outline: none;
+  border: 1px solid white;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.youtube-container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.button--close {
+  position: absolute;
+  z-index: 10;
+  bottom: 30px;
+  left: 30px;
+}
+
+.movie-card {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 280px;
+  box-shadow: 0 3px 10px 0 #aaa;
+  cursor: pointer;
+}
+
+.movie-title {
+  font-size: 18px;
+  font-weight: 50px;
+  margin: 15px 0;
+  color: red;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.filter_header {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  width: 280px;
+  box-shadow: 0 3px 10px 0 #aaa;
+  overflow: hidden;
+}
+
+.drop-down {
+  display: flex;
+  flex-wrap: wrap;
+  top: 30px;
+  width: 278px;
+  height: 30px;
+  max-width: 300px;
+  background-color: red;
+  border: rgb(20, 1, 1);
+  padding: 5px;
+  margin: 15px;
+  overflow: hidden;
+}
+
+.select-drop {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  box-shadow: 0 1px 10px 0 #aaa;
+  height: 350px;
 }
