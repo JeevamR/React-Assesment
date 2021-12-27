@@ -16,7 +16,7 @@ Link to api used to fetch movie data object
 
 # Getting started
   Can view this project directly using sanbox link 
-         https://m6ouz.csb.app/
+         https://hwrvd.csb.app/
          
 # Screen shots
 <img width="321" alt="Screenshot 1943-10-01 at 9 29 20 PM" src="https://user-images.githubusercontent.com/96462021/147460214-d454e581-9ef7-4f30-b024-9f002253121f.png">
